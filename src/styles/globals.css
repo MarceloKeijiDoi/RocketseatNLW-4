@@ -23,6 +23,17 @@
       font-size: 93.75;
   }
 }
+@media(max-width: 1024px){
+  html{
+      font-size: 90.75;
+  }
+}
+
+@media(max-width: 768px){
+  html{
+      font-size: 87.5%;
+  }
+}
 
 @media(max-width: 720px){
   html{
